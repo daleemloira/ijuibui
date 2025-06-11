@@ -1,6 +1,6 @@
 criaCartao(
     'Futebol',
-    'Quem é o maior artilheiro da seleção brasileira?'1  ,
+    'Quem é o maior artilheiro da seleção brasileira?'  ,
     'Maior artileiro da seleção brasileira é o Neymar'
 )
 
